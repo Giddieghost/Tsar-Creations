@@ -560,7 +560,7 @@ h2 {
 .info {
     text-align: center;
     font-size: 1.1rem;
-    font-family: sans-serif;
+    font-family: "Patrick Hand";
     font-weight: 500;
     line-height: 20px;
     padding: 40px;
@@ -571,7 +571,7 @@ h2 {
 .expand {
     width: 80%;
     padding: 10px;
-    background: url(sunrise-from-seaview.jpg);
+    background: blue;
     object-fit: cover;
     border-image-repeat: no-repeat;
     justify-content: center;
@@ -613,7 +613,7 @@ h2 {
     width: 20%;
     margin-left: 12%;
     padding: 10px 10px 10px 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     text-align: center;
 }
 
@@ -623,16 +623,16 @@ h2 {
     margin-left: 9%;
     margin-right: 9%;
     padding: 10px 10px 10px 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     text-align: center;
 }
 
 .tiktok {
-    background-color:white;
+    background-color: white;
     width: 20%;
     margin-right: 12%;
     padding: 10px 10px 10px 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     text-align: center;
 }
 
