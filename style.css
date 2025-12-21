@@ -501,6 +501,12 @@ img {
     padding: 2px;
 }
 
+.wha {
+    background: url(whatsapp-brands-solid-full.svg);
+    height: 40px;
+    width: 40px;
+}
+
  .right {
     height: 100vh;
     width: 100%;
