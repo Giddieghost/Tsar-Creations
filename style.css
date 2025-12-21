@@ -484,7 +484,7 @@ img {
     font-size: 1rem;
 }
 
-.contact:hover {
+.contact {
     border-radius: 50px;
     border: 1px solid rgba(255, 255, 255, 0.4);
     background: transparent;
