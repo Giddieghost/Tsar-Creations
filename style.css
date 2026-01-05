@@ -484,23 +484,6 @@ img {
     font-size: 1rem;
 }
 
-.contact {
-    border-radius: 50px;
-    border: 1px solid rgba(255, 255, 255, 0.4);
-    background: transparent;
-    backdrop-filter: url(#distortion);
-    -webkit-backdrop-filter: url(#distortion);
-    transition: all 0.6s ease;
-    position: relative;
-    overflow: hidden;
-    justify-content: center;
-    object-position: center;
-    font-weight: 900;
-    font-size: 14px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 2px;
-}
-
 .wha {
     background: url(whatsapp-brands-solid-full.svg);
     height: 40px;
@@ -508,7 +491,6 @@ img {
 }
 
  .right {
-    height: 100vh;
     width: 100%;
     object-position: center;
     font-family: sans-serif;
@@ -518,7 +500,6 @@ img {
     font-style: oblique;
     margin-top: 50px;
     margin-bottom: 50px;
-    height: 500px;
     align-content: center;
     background-image: url(im.jpg);
     background-size: cover;
